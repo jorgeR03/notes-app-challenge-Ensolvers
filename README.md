@@ -1,8 +1,8 @@
-# 📝 Notes App - Full Stack Application
+# Notes App - Full Stack Application
 
 A modern, full-stack notes application with categories, built with Spring Boot and React.
 
-## 🚀 Features
+## Features
 
 ### Phase 1 (Core Features) 
 - Create, edit, and delete notes
@@ -15,7 +15,7 @@ A modern, full-stack notes application with categories, built with Spring Boot a
 - Filter notes by category
 - Modern, responsive UI with Tailwind CSS
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **Java**: 21
@@ -33,7 +33,7 @@ A modern, full-stack notes application with categories, built with Spring Boot a
 - **Axios**: HTTP client
 - **React Query**: Server state management
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running the application, ensure you have the following installed:
 
@@ -51,7 +51,7 @@ npm -v           # Should show 9.x.x or higher
 psql --version   # Should show PostgreSQL 15+ or higher
 ```
 
-## 🗄️ Database Setup
+## Database Setup
 
 ### 1. Create PostgreSQL Database
 
@@ -122,7 +122,7 @@ npm run dev
 
 Frontend will run on: **http://localhost:5173**
 
-## 🌐 Access the Application
+## Access the Application
 
 Once both servers are running:
 
